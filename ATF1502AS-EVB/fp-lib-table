@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ATF1502AS-EVB")(type "KiCad")(uri "${KIPRJMOD}/ATF1502AS-EVB.pretty")(options "")(descr ""))
+)
