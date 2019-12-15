@@ -19,23 +19,12 @@ Comment8 ""
 Comment9 ""
 $EndDescr
 $Comp
-L CPLD_Microchip:ATF1502AS U1
-U 1 1 5DF180CF
-P 2600 4250
-F 0 "U1" H 2150 5200 50  0000 C CNN
-F 1 "ATF1502AS" H 2900 5200 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 2600 5800 50  0001 C CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf" H 2600 5700 50  0001 C CNN
-	1    2600 4250
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector_Generic:Conn_01x20 J2
 U 1 1 5DF1D0F8
 P 1450 4250
 F 0 "J2" H 1450 3150 50  0000 C CNN
 F 1 "Conn_01x20" H 1368 3116 50  0001 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" H 1450 4250 50  0001 C CNN
+F 2 "ATF1502AS-EVB:PinSocket_1x20_P2.54mm_Vertical_NoSilk" H 1450 4250 50  0001 C CNN
 F 3 "~" H 1450 4250 50  0001 C CNN
 	1    1450 4250
 	-1   0    0    1   
@@ -46,7 +35,7 @@ U 1 1 5DF22A50
 P 3750 4150
 F 0 "J3" H 3750 5150 50  0000 C CNN
 F 1 "Conn_01x20" H 3668 5176 50  0001 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" H 3750 4150 50  0001 C CNN
+F 2 "ATF1502AS-EVB:PinSocket_1x20_P2.54mm_Vertical_NoSilk" H 3750 4150 50  0001 C CNN
 F 3 "~" H 3750 4150 50  0001 C CNN
 	1    3750 4150
 	1    0    0    -1  
@@ -526,4 +515,15 @@ Wire Wire Line
 	4450 3650 4450 3700
 Wire Wire Line
 	5050 3650 5050 3700
+$Comp
+L CPLD_Microchip:ATF1502AS-xAx44 U1
+U 1 1 5DF180CF
+P 2600 4250
+F 0 "U1" H 2150 5200 50  0000 C CNN
+F 1 "ATF1502AS-xAx44" H 2200 3200 50  0000 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 2600 5800 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf" H 2600 5700 50  0001 C CNN
+	1    2600 4250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
