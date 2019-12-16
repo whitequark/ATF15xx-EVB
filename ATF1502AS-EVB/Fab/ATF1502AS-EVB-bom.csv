@@ -1,0 +1,5 @@
+RefDes,Quantity,Package,Side,Value,Manufacturer,MPN,Substitute,Comment
+U1,1,TQFP-44,TOP,ATF1502AS-xAx44,Microchip,ATF1502AS-7AX44,NO,
+"R2,R3,R1",3,SMT_0805,TOP,3k3,ANY,,YES,
+"C4,C3,C2,C1",4,SMT_0805,BOTTOM,220n,ANY,,YES,
+"D2,D3,D1",3,SMT_0603,TOP,Green,Wurth,150060GS75000,YES,Cathode marked on silk

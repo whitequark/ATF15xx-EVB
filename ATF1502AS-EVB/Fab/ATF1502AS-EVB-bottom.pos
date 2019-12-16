@@ -1,0 +1,10 @@
+### Module positions - created on Sun 15 Dec 2019 06:05:23 PM UTC ###
+### Printed by Pcbnew version 5.99.0-unknown-8bd2765~86~ubuntu18.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+C1        220n      C_0805_2012Metric_Pad1.15x1.40mm_HandSolder     2.2860     2.2860   45.0000  bottom
+C2        220n      C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    -2.2860    -2.2860  -135.0000  bottom
+C3        220n      C_0805_2012Metric_Pad1.15x1.40mm_HandSolder     2.2860    -2.2860  135.0000  bottom
+C4        220n      C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    -2.2860     2.2860  -45.0000  bottom
+## End
