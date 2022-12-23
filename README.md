@@ -9,6 +9,15 @@ ATF1502-EVB
 
 See also [schematics](ATF1502AS-EVB/Fab/ATF1502AS-EVB.pdf).
 
+ATF1502AS-EVB-PLCC44-COBBLER
+============================
+The *ATF1502AS-EVB-PLCC44-COBBLER* board features the same ATF1502AS CPLD, but the variant that comes in a PLCC44 package.
+The style of the board is a 'cobbler', designed to be easily inserted into a breadboard.
+It also features a secondary jtag port designed to be compatible with Olimex ARM-USB-TINY adapters.
+
+![Board image](ATF1502AS-EVB-PLCC44-COBBLER/Fab/ATF1502AS-EVB-render.png)
+See also [schematics](ATF1502AS-EVB-PLCC44-COBBLER/Fab/ATF1502AS-EVB.pdf).
+
 License
 -------
 
