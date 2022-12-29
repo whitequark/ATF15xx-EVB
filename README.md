@@ -18,6 +18,14 @@ It also features a secondary jtag port designed to be compatible with Olimex ARM
 ![Board image](ATF1502AS-EVB-PLCC44-COBBLER/Fab/ATF1502AS-EVB-render.png)
 See also [schematics](ATF1502AS-EVB-PLCC44-COBBLER/Fab/ATF1502AS-EVB.pdf).
 
+ATF1508AS-EVB-PLCC84
+====================
+The *ATF1508AS-EVB-PLCC84* board features the bigger ATF1508AS CPLD, this board supports the variant that comes in a PLCC84 package.
+It features a secondary jtag port designed to be compatible with Olimex ARM-USB-TINY adapters.
+
+![Board image](ATF1508AS-EVB-PLCC84/Fab/ATF1502AS-EVB-render.png)
+See also [schematics](ATF1508AS-EVB-PLCC84/Fab/ATF1502AS-EVB.pdf).
+
 License
 -------
 
