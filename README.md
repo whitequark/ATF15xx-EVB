@@ -26,6 +26,10 @@ It features a secondary jtag port designed to be compatible with Olimex ARM-USB-
 ![Board image](ATF1508AS-EVB-PLCC84/Fab/ATF1502AS-EVB-render.png)
 See also [schematics](ATF1508AS-EVB-PLCC84/Fab/ATF1502AS-EVB.pdf).
 
+ATF1502-EVB-PLCC
+================
+The *ATF1502-EVB-PLCC* board, is a variant for the PLCC-44 package, socketed. It routes the same signals to the headers in the same order and includes the same pin numbers on the silkscreen. These numbers reflect the TQFP-44 pin numbers, but everything is connected correctly to the PLCC-44 package, which has the same 44 signals but in a slightly different order.
+
 License
 -------
 
